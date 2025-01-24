@@ -3,4 +3,8 @@
 ![camera](photos/camera.jpg)
 
 
-Depuis tout jeune, je suis passionné par la photographie. À peine arrivé à l'âge de 6 ans, mon père ma fait découvrir cette passion.
+Depuis tout jeune, je suis passionné par la photographie. À peine arrivé à l'âge de 6 ans, mon père a mit une caméra dans mes mains et m'a fait découvrir ça passion.
+
+Pendant la majorité de mon secondaire, j'ai fais des cours d'art multimédias et j'ai fais de nombreux projets comme celui-ci:
+
+![projet](photos/projet.jpg)
