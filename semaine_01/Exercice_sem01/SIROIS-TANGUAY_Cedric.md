@@ -8,3 +8,5 @@ Depuis tout jeune, je suis passionné par la photographie. À peine arrivé à l
 Pendant la majorité de mon secondaire, j'ai fais des cours d'art multimédias et j'ai fais de nombreux projets comme celui-ci:
 
 ![projet](photos/projet.jpg)
+
+**Dans ce projet, j'ai pris les photos de mes camarades de classes et des photos de fumer pour fabriquer une publicité contre le vapotage chez les jeunes.**
