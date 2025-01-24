@@ -12,4 +12,4 @@ Pendant la majorité de mon secondaire, j'ai fais des cours d'art multimédias e
 
 ## 
 
-J'adore écouter cette ![chaine](https://www.youtube.com/watch?v=jfKfPfyJRdk) youtube pour faire des travaux ou pour devoir me concentrer sur ce que je dois faire.
+J'adore écouter cette [chaine](https://www.youtube.com/watch?v=jfKfPfyJRdk) youtube pour faire des travaux ou pour devoir me concentrer sur ce que je dois faire.
