@@ -10,6 +10,6 @@ Pendant la majorité de mon secondaire, j'ai fais des cours d'art multimédias e
 ![projet](photos/projet.jpg)
 ###### **Dans ce projet, j'ai pris les photos de mes camarades de classes et des photos de fumer pour fabriquer une publicité contre le vapotage chez les jeunes.**
 
-## 
+## Truc et astuce
 
 J'adore écouter cette [chaine](https://www.youtube.com/watch?v=jfKfPfyJRdk) youtube pour faire des travaux ou pour devoir me concentrer sur ce que je dois faire.
