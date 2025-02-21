@@ -7,12 +7,12 @@
 
 *Olivier, prise par moi
 
----
-
-
  Visité le 31 janvier 2025, *Le Banquet* est une exposition qui a comme but de présenter la nourriture sous une autre forme. 
 
  L'exposition est pour tout les goûts, autant pour les petites qui veulent manger des bonbons, que pour les adultes pour sentir des odeurs agréables et pour les visuel immersif.
+
+---
+
 
  ##Où et comment ?
 
