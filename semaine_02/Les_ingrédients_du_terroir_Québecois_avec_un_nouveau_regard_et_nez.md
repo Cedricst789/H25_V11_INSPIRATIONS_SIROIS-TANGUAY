@@ -13,7 +13,6 @@
 
 ---
 
-
  ## Où et comment ?
 
  
@@ -23,4 +22,9 @@
 
 *Efraïm et Moi, photo prise par Olivier
 
-L'exposition a été créé par *La Cité des Sciences et de l'Industrie en partenariat avec INRAE et Radio-Canada* et le Centre des Sciences de Montréal se situe juste [ici](https://www.google.ca/maps/place/Centre+des+sciences+de+Montr%C3%A9al/@45.5047874,-73.5533179,17z/data=!3m1!4b1!4m6!3m5!1s0x4cc91af8afb32729:0xf341b1d10d346c12!8m2!3d45.5047874!4d-73.550743!16s%2Fm%2F047jd81?entry=ttu&g_ep=EgoyMDI1MDIxOC4wIKXMDSoASAFQAw%3D%3D)
+L'exposition a été créé en 2024 et par *La Cité des Sciences et de l'Industrie en partenariat avec INRAE et Radio-Canada*. 
+Le Centre des Sciences de Montréal se situe juste [ici](https://www.google.ca/maps/place/Centre+des+sciences+de+Montr%C3%A9al/@45.5047874,-73.5533179,17z/data=!3m1!4b1!4m6!3m5!1s0x4cc91af8afb32729:0xf341b1d10d346c12!8m2!3d45.5047874!4d-73.550743!16s%2Fm%2F047jd81?entry=ttu&g_ep=EgoyMDI1MDIxOC4wIKXMDSoASAFQAw%3D%3D)
+
+---
+
+## Les ingrédients du terroir Québecois avec un nouveau regard...et nez!
