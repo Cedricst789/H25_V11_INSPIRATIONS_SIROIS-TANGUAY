@@ -7,4 +7,8 @@
 *Efraïm et Moi, photo prise par Olivier, le 31/01
 
 ---
-##Le Banquet
+## Le Banquet
+
+
+<p>
+  <img src="./photo/bonne/entrer.jpg
