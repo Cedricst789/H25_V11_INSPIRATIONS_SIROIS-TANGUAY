@@ -5,7 +5,7 @@
   <img src="./photos/bonne/banquet.jpg">
 </p>
 
-*Olivier devant l'entrée de l'exposition, prise par moi
+*Olivier, prise par moi
 
 ---
 
