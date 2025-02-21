@@ -33,9 +33,21 @@ Le Centre des Sciences de Montréal se situe juste [ici](https://www.google.ca/m
 *dispositif multimédia, photo prise par moi
 
 Le Banquet est une exposition très intéressante, mais ce dispositif multimédia a plus capter mon attention que les autres.
-*Les ingrédients du terroir Québecois avec un nouveau regard...et nez!* est un dispositif multimédia qui a comme concept de nous faire devinner des ingrédiants avec leurs odeurs,
+*Les ingrédients du terroir Québecois avec un nouveau regard...et nez!* est un dispositif multimédia qui a comme concept de nous faire devinner des ingrédiants avec leurs odeurs.
 
 Sentir | Deviner
 :-------------------------:|:-------------------------:
 ![sentir](photos/bonne/efra_sens.jpg)|![deviner](photos/bonne/oli_wow.jpg)
 
+## Comment ça fonctionne ?
+
+C'est très simple!
+Composanstes  fornies par L'artiste:
+- Les ingrédiants
+- Les caches odeurs/vision
+- Un panneau explicatif
+
+Composantes fourni par la place:
+- Une table
+- Un écran
+- des fils d'alimentations
