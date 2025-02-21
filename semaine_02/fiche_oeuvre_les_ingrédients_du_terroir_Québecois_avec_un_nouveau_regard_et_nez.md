@@ -92,4 +92,12 @@ Toilette | Poubelle
 :-------------------------:|:-------------------------:
 ![toilette](photos/bonne/efra.jpg)|![poubelle](photos/bonne/poubelle.jpg)
 
-*Sentir et deviner, photos prisent par moi et Olivier*
+*Sentir et deviner, photos prisent par moi*
+
+## Références 
+
+Page 1 | Page 2
+:-------------------------:|:-------------------------:
+![page1](photos/bonne/page_fin.jpg)|![page2](photos/bonne/page_fin2.jpg)
+
+*Sentir et deviner, photos prisent par moi*
