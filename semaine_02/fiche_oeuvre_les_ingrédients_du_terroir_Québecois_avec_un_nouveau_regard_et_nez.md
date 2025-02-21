@@ -90,6 +90,6 @@ Ce que j'ai aimé du *Centre des Sciences* c'est leurs déssins pour tout les ob
 
 Toilette | Poubelle
 :-------------------------:|:-------------------------:
-![toilette](photos/bonne/efra_sens.jpg)|![poubelle](photos/bonne/poubelle.jpg)
+![toilette](photos/bonne/efra.jpg)|![poubelle](photos/bonne/poubelle.jpg)
 
 *Sentir et deviner, photos prisent par moi et Olivier*
