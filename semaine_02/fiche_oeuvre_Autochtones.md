@@ -5,7 +5,7 @@
   <img src="./photos/bonne/banquet.jpg">
 </p>
 
-*Olivier, prise par moi
+*Olivier, photo prise par moi
 
  Visité le 31 janvier 2025, *Le Banquet* est une exposition qui a comme but de présenter la nourriture sous une autre forme. 
 
