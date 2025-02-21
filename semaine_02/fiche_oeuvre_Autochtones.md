@@ -10,7 +10,7 @@
 ## Le Banquet
 
 
-<p>
+<p align="center">
   <img src="./photos/bonne/entrer.jpg">
 </p>
 
