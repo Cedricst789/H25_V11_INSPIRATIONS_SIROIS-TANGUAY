@@ -79,3 +79,5 @@ Des composantes fourni par la place:
 J'ai adoré ce dispositif! J'aime la façon qu'on intéragie avec le fait qu'on dois devinner avec son nez et ça nous a jouer des tours pour certain *Qui suis-je* sur la talbe.
 
 J'ai aussi aimer en apprendre plus sur le terroir québecois et ce qui mangait avant et voir aussi qu'es-ce qui est resté dans nous habitude alimentaire. J'ai été content que l'artiste n'ai pas décidé de mettre des odeurs pas agréables pour nous montrer l'histoire, car tout au long de l'exposition notre nez était mit a l'épreuve et j'ai peur de encore sentir des odeurs qui peuvent me donner des nausées.
+
+Personellement, j'aurai mis ce dispositif contre un mur 
