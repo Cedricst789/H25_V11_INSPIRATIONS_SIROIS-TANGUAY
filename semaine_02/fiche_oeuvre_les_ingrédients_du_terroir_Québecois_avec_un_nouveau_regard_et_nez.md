@@ -42,6 +42,7 @@ Sentir | Deviner
 ## Comment ça fonctionne ?
 
 C'est très simple!
+
 Composanstes  fornies par L'artiste:
 - Les ingrédiants
 - Les caches odeurs/vision
