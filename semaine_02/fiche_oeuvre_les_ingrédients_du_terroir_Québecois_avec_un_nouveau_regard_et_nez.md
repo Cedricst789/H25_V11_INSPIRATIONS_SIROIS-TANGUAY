@@ -46,6 +46,10 @@ Quand vous arrivez en face du dispositif vous voyez 6 qui suis-je de différante
 
 *qui suis-je, photo prise par moi*
 
+Odeur | aliment
+:-------------------------:|:-------------------------:
+![odeur](photos/bonne/odeur.jpg)|![aliment](photos/bonne/vision.jpg)
+
 Il vous faut simplement faire comme ça:
 
 Sentir | Deviner
