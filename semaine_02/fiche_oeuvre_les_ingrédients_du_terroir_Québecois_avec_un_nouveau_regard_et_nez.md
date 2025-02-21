@@ -92,7 +92,7 @@ Toilette | Poubelle
 :-------------------------:|:-------------------------:
 ![toilette](photos/bonne/efra.jpg)|![poubelle](photos/bonne/poubelle.jpg)
 
-*Dessin au toilette et Dessin sur une poubelle, photos prisent par moi*
+*Dessin au toilette et Dessin sur une poubelle, photos prisent par moi et Olivier*
 
 ## Références 
 
