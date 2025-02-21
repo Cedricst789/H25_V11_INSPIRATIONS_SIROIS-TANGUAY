@@ -37,4 +37,4 @@ Le Banquet est une exposition très intéressante, mais ce dispositif multimédi
 
 Sentir | Deviner
 :-------------------------:|:-------------------------:
-![sentir](images/efra_sens.jpg)|![deviner](oli_wow.jpg)
+![sentir](photos/bonne/efra_sens.jpg)|![deviner](photos/bonne/oli_wow.jpg)
