@@ -4,6 +4,7 @@
 <p align="center">
   <img src="./photos/bonne/banquet.jpg">
 </p>
+
 *Olivier, photo prise par moi
 
  Visité le 31 janvier 2025, *Le Banquet* est une exposition qui a comme but de présenter la nourriture sous une autre forme. 
@@ -18,6 +19,7 @@
 <p align="center">
   <img src="./photos/bonne/Efra et moi.jpg">
 </p>
+
 *Efraïm et Moi, photo prise par Olivier
 
 L'exposition a été créé en 2024 et par *La Cité des Sciences et de l'Industrie en partenariat avec INRAE et Radio-Canada*. 
@@ -30,6 +32,7 @@ Le Centre des Sciences de Montréal se situe juste [ici](https://www.google.ca/m
 <p align="center">
   <img src="./photos/bonne/table.jpg">
 </p>
+
 *dispositif multimédia, photo prise par moi
 
 Le Banquet est une exposition très intéressante, mais ce dispositif multimédia a plus capter mon attention que les autres.
@@ -42,6 +45,8 @@ Quand vous arrivez en face du dispositif vous voyez 6 qui suis-je de différante
 Sentir | Deviner
 :-------------------------:|:-------------------------:
 ![sentir](photos/bonne/efra_sens.jpg)|![deviner](photos/bonne/oli_wow.jpg)
+
+*Sentir et deviner, photos prisent par moi
 
 ## Comment ça fonctionne ?
 
