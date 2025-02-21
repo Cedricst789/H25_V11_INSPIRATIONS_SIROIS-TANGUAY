@@ -1,4 +1,4 @@
-# Le Banquet exposition au Centre des sciences de Montréal
+# Le Banquet: exposition au Centre des sciences de Montréal
 
 
 <p align="center">
