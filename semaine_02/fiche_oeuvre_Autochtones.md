@@ -1,4 +1,4 @@
-# Exposition au Centre des sciences de Montréal
+# Exposition au Centre des sciences de Montréal le 31 janvier 2025
 
 <p align="center">
   <img src="./photos/bonne/Efra et moi.jpg">
@@ -11,5 +11,7 @@
 
 
 <p>
-  <img src="./photo/bonne/entrer.jpg">
+  <img src="./photos/bonne/entrer.jpg">
 </p>
+
+
