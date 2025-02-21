@@ -28,3 +28,7 @@ Le Centre des Sciences de Montréal se situe juste [ici](https://www.google.ca/m
 ---
 
 ## Les ingrédients du terroir Québecois avec un nouveau regard...et nez!
+
+<p align="center">
+  <img src="./photos/bonne/expo_complet.jpg">
+</p>
