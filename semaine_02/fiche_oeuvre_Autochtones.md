@@ -11,4 +11,5 @@
 
 
 <p>
-  <img src="./photo/bonne/entrer.jpg
+  <img src="./photo/bonne/entrer.jpg">
+</p>
