@@ -1,6 +1,4 @@
-# Exposition au Centre des sciences de Montréal le 31 janvier 2025
-
-## Le Banquet
+# Le Banquet exposition au Centre des sciences de Montréal visité le 31 janvier 2025
 
 
 <p align="center">
