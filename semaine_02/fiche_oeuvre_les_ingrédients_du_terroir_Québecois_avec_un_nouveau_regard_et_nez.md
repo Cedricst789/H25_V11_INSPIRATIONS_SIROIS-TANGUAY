@@ -35,6 +35,8 @@ Le Centre des Sciences de Montréal se situe juste [ici](https://www.google.ca/m
 Le Banquet est une exposition très intéressante, mais ce dispositif multimédia a plus capter mon attention que les autres.
 *Les ingrédients du terroir Québecois avec un nouveau regard...et nez!* est un dispositif multimédia qui a comme concept de nous faire devinner des ingrédiants avec leurs odeurs,
 
+<p align="center">
 Sentir | Deviner
 :-------------------------:|:-------------------------:
 ![sentir](photos/bonne/efra_sens.jpg)|![deviner](photos/bonne/oli_wow.jpg)
+</p>
