@@ -69,3 +69,9 @@ Des composantes fourni par la place:
 - Une table
 - Un écran
 - des fils d'alimentations
+
+## Expérience vécue
+
+J'ai adoré ce dispositif! J'aime la façon qu'on intéragie avec, le fait qu'on dois devinner avec son nez ça nous a jouer des tours pour certain *Qui suis-je*
+
+J'ai aussi aimer en apprendre plus sur le terroir québecois et ce qui mangait avant et voir aussi qu'es-ce qui est resté dans nous habitude alimentaire.
