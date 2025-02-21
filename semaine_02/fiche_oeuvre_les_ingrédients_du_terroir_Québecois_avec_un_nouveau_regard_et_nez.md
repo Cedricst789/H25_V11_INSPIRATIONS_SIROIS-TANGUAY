@@ -46,6 +46,8 @@ Quand vous arrivez en face du dispositif vous voyez 6 qui suis-je de différante
 
 *qui suis-je, photo prise par moi*
 
+Dispositif utilisé:
+
 Odeur | aliment
 :-------------------------:|:-------------------------:
 ![odeur](photos/bonne/odeur.jpg)|![aliment](photos/bonne/vision.jpg)
@@ -58,7 +60,7 @@ Sentir | Deviner
 
 *Sentir et deviner, photos prisent par moi*
 
-## Comment ça fonctionne ?
+## Comment faire la mise en place ?
 
 C'est très simple!
 
@@ -80,4 +82,14 @@ J'ai adoré ce dispositif! J'aime la façon qu'on intéragie avec le fait qu'on 
 
 J'ai aussi aimer en apprendre plus sur le terroir québecois et ce qui mangait avant et voir aussi qu'es-ce qui est resté dans nous habitude alimentaire. J'ai été content que l'artiste n'ai pas décidé de mettre des odeurs pas agréables pour nous montrer l'histoire, car tout au long de l'exposition notre nez était mit a l'épreuve et j'ai peur de encore sentir des odeurs qui peuvent me donner des nausées.
 
-Personellement, j'aurai mis ce dispositif contre un mur 
+Personellement, j'aurai mis ce dispositif contre un mur faciliter la lecture de l'écrans au milieu et le texte explicatif de ce dispositif.
+
+## Bonus
+
+Ce que j'ai aimé du *Centre des Sciences* c'est leurs déssins pour tout les objets que nous utilisons dans nos vie quotidiennement comme sur des poubelles ou au toilettes. Ça donne un effet positif à ton regard sur tout. On a un effet de retomber en enfance et de voir des dessins de notre imagination partout!
+
+Toilette | Poubelle
+:-------------------------:|:-------------------------:
+![toilette](photos/bonne/efra_sens.jpg)|![poubelle](photos/bonne/poubelle.jpg)
+
+*Sentir et deviner, photos prisent par moi et Olivier*
