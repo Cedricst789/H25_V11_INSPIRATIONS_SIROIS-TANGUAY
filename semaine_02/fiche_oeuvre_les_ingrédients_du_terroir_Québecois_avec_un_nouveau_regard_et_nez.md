@@ -50,7 +50,7 @@ Odeur | aliment
 :-------------------------:|:-------------------------:
 ![odeur](photos/bonne/odeur.jpg)|![aliment](photos/bonne/vision.jpg)
 
-Il vous faut simplement faire comme ça:
+Voici un exeple de comment utiliser ce dispositif:
 
 Sentir | Deviner
 :-------------------------:|:-------------------------:
