@@ -4,3 +4,7 @@
   <img src="./photos/bonne/Efra et moi.jpg">
 </p>
 
+*Efraïm et Moi, photo prise par Olivier, le 31/01
+
+---
+##Le Banquet
