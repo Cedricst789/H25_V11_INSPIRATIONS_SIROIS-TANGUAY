@@ -30,7 +30,7 @@ Deu 17 au 21 Mars
 ## Fuga
 
 <p align="center">
-  <img src="./photos/fuga">
+  <img src="./photos/fuga.jpg">
 </p>
 
 ### Information :
@@ -38,7 +38,17 @@ Deu 17 au 21 Mars
 - [Leur intention]([https://escapism-fuga.github.io/Fuga/#/](https://www.youtube.com/watch?v=rhUf4A05L-w))
 
 ### Description : 
-L'oeuvre est constituée de 3 écrans suspendus qui diffusent simultanément trois arbres qui grandissent et s'en vont, ainsi que 3 panneaux de contrôle différents, avec des hauts-parleurs.
+Ce dispositif multimédias à comme but de faire créer un arbre personnalisé pour chaque utilisateur. Plus on intéragie avec le disositif, plus l'arbre évolue.
+
+#### Composition :
+Matériel utilisé: 
+- Générateur de fréquence
+- Trois télévisions
+- Deux haut-parleurs
+- Décor recyclé
+- Câble (HDMI, Ethernet, audio)
+
+
 
 - Schémas d'installation :
 
