@@ -7,7 +7,7 @@
 
 ---
 
-#Resonance
+#[Resonance](https://tim-montmorency.com/2025/#/)
 
 <p align="center">
   <img src="./photos/resonance.jpg">
@@ -17,10 +17,10 @@
 --
 
 ## Les dispositifs multimédias à disposition
-- Etheria
-- Fuga
-- Internature
-- Luminatura
-- CON DU8
-- Prismatica
-- Arcadia
+- [Prismatica](https://pootpookies.github.io/Prismatica/#/)
+- [CON DU8](https://gearshift-games.github.io/Web-C0N-DU8/#/)
+- [Luminatura](https://miaou-mafia.github.io/projet-luminatura/#/)
+- [Etheria](https://ethereal-creators.github.io/Etheria/#/)
+- [Fuga](https://escapism-fuga.github.io/Fuga/#/)
+- [Internature](https://tprangers.github.io/internature/#/)
+- [Arcadia](https://cousi-cousa.github.io/Arcadia/#/)
