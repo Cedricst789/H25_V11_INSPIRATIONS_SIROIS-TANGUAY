@@ -4,7 +4,9 @@
   <img src="./photos/oli_moi.jpg">
 </p>
 *Olivier et moi, photo prise par Efraïm*
+
 ---
+
 #
 
 <p align="center">
