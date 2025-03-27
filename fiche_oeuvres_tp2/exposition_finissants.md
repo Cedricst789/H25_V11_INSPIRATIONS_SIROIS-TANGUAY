@@ -7,7 +7,7 @@
 
 ---
 
-#[Resonance](https://tim-montmorency.com/2025/#/)
+# Resonance [Lien](https://tim-montmorency.com/2025/#/)
 
 <p align="center">
   <img src="./photos/resonance.jpg">
