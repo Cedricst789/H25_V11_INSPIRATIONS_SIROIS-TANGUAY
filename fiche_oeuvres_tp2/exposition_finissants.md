@@ -14,10 +14,13 @@
 </p>
 *Affiche de l'exposition Resonance, photo prise par Olivier*
 
-1. Etheria
-2. [Fuga]
-3. [Internature](#internature)
-4. [Luminatura](#luminatura)
-5. [CON DU8](#condu8)
-6. [Prismatica](#prismatica)
-7. [Arcadia](#arcadia)
+--
+
+## Les dispositifs multimédias à disposition
+- Etheria
+- Fuga
+- Internature
+- Luminatura
+- CON DU8
+- Prismatica
+- Arcadia
