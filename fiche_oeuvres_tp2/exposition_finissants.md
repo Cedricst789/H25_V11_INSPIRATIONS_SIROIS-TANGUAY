@@ -14,7 +14,7 @@
 </p>
 *Affiche de l'exposition Resonance, photo prise par Olivier*
 
-1. [Etheria]
+1. Etheria
 2. [Fuga]
 3. [Internature](#internature)
 4. [Luminatura](#luminatura)
