@@ -40,8 +40,7 @@ Deu 17 au 21 Mars
 ### Description : 
 Ce dispositif multimédias à comme but de faire créer un arbre personnalisé pour chaque utilisateur. Plus on intéragie avec le disositif, plus l'arbre évolue.
 
-#### Composition :
-Matériel utilisé: 
+### Composition :
 - Générateur de fréquence
 - Trois télévisions
 - Deux haut-parleurs
