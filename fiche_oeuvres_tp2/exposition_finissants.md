@@ -13,6 +13,7 @@
   <img src="./photos/resonance.jpg">
 </p>
 *Affiche de l'exposition Resonance, photo prise par Olivier*
+Deu 17 au 21 Mars
 
 
 ## Les dispositifs multimédias à disposition
@@ -23,3 +24,8 @@
 - [Fuga](https://escapism-fuga.github.io/Fuga/#/)
 - [Internature](https://tprangers.github.io/internature/#/)
 - [Arcadia](https://cousi-cousa.github.io/Arcadia/#/)
+
+---
+
+##PRISMATICA
+
