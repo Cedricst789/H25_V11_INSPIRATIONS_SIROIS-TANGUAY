@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./photos/bonne/banquet.jpg">
+  <img src="./fiche_oeuvres_tp2/photos/resonance.jpg">
 </p>
-
+*Resonance, photo prise par Olivier*
 ---
