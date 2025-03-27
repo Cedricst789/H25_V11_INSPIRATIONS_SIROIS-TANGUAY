@@ -14,7 +14,6 @@
 </p>
 *Affiche de l'exposition Resonance, photo prise par Olivier*
 
----
 
 ## Les dispositifs multimédias à disposition
 - [Prismatica](https://pootpookies.github.io/Prismatica/#/)
