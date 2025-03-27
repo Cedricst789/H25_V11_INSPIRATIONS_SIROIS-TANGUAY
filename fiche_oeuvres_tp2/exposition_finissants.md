@@ -29,18 +29,13 @@ Deu 17 au 21 Mars
 
 ## Fuga
 
-<div id="fuga">
-  <h2>Fuga</h2>
-</div>
-
 <p align="center">
-  <img src="./images/autres_projets/fuga_vue_ecrans.jpg" width="600px"> <br>
-  <i>Vue des écrans - 18/03/2025 - prise par Olivier Laliberté</i>
+  <img src="./photos/fuga">
 </p>
 
-### Installation :
-- Créé par : Abdel Ali Djeral, Daniel Dezemma, Matis Labelle, Tristan Khadka, Yavuz-Selim Gucluer
-- Année de diffusion : 2025
+### Information :
+- Créé par : Matis Labelle, Tristan Khadka Abdel, Daniel Dezemma, Ali Djeral, Yavuz-Selim Gucluer
+- [Leur intention]([https://escapism-fuga.github.io/Fuga/#/](https://www.youtube.com/watch?v=rhUf4A05L-w))
 
 ### Description : 
 L'oeuvre est constituée de 3 écrans suspendus qui diffusent simultanément trois arbres qui grandissent et s'en vont, ainsi que 3 panneaux de contrôle différents, avec des hauts-parleurs.
