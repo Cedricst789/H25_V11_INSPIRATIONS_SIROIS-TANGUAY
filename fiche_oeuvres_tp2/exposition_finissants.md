@@ -33,9 +33,9 @@ Deu 17 au 21 Mars
   <img src="./photos/fuga.jpg">
 </p>
 
-### Information :
+### Les créateurs :
 - Créé par : Matis Labelle, Tristan Khadka Abdel, Daniel Dezemma, Ali Djeral, Yavuz-Selim Gucluer
-- [Leur intention]((https://www.youtube.com/watch?v=rhUf4A05L-w))
+ #### [Leur intention](https://www.youtube.com/watch?v=rhUf4A05L-w)
 
 ### Description : 
 Ce dispositif multimédias à comme but de faire créer un arbre personnalisé pour chaque utilisateur. Plus on intéragie avec le disositif, plus l'arbre évolue.
