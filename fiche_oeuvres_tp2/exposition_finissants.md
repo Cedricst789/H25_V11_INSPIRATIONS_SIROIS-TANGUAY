@@ -47,7 +47,8 @@ Matériel utilisé:
 - Deux haut-parleurs
 - Décor recyclé
 - Câble (HDMI, Ethernet, audio)
-
+- Projecteur
+[Maquette](https://www.youtube.com/watch?v=vc4ROoVuDpA)
 
 
 - Schémas d'installation :
