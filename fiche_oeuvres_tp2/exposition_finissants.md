@@ -7,9 +7,9 @@
 
 ---
 
-#
+#Resonance
 
 <p align="center">
   <img src="./photos/resonance.jpg">
 </p>
-*Resonance, photo prise par Olivier*
+*Affiche de l'exposition Resonance, photo prise par Olivier*
