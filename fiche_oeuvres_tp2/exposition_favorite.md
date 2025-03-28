@@ -1,19 +1,28 @@
-# Luminatura
-Où: Collège Montmorency
-Type d'exposition: Exposition temporaire
-Date de visite: le 18 mars
+# resonance 
+- Où: Collège Montmorency
+- Type d'exposition: Exposition temporaire
+- Date de visite: le 18 mars
 
 <p align="center">
   <img src="./photos/equipe_couleur.jpg">
 </p>
 *Photo prise par moi*
 
-### Les créateurs :
+## Luminatura
+
+## Les créateurs :
 - Créé par : Audrey Dandurand, Justine Rousseau, Camilia Bouatmani, Prethiah Rajaratnam, Ihab Mouhajer
 - #### [Leur intention](https://miaou-mafia.github.io/projet-luminatura/#/20_intention/)
 
-### Description : 
-Ce dispositif multimédias à comme but de faire vivre un spectacle de couleur contrôler par l'utilisateur.
+### Description
+Ce dispositif multimédias est composé de trois piédestals qui au contact de la main crée un spectacle de couleurs. Les couleurs varie selon quel piédestal que l'on touche et aussi le nombre qu'on touche en même temps. 
+
+bleu | blanc
+:-------------------------:|:-------------------------:
+![bleu](photos/bleu.jpg)|![blanc](photos/blanc.jpg)
+jaune | mauve
+:-------------------------:|:-------------------------:
+![jaune](photos/jaune.jpg)|![mauve](photos/mauve.jpg)
 
 ### Composition :
 - Des projecteurs
