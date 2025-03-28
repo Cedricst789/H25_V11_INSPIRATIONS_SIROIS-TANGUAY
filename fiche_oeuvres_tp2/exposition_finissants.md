@@ -48,10 +48,12 @@ Ce dispositif multimédias à comme but de faire vivre un spectacle de couleur c
 - Câble (HDMI, Ethernet, audio)
 - Un ordinateur
 - Tissu et fils de métal
-[Maquette](https://www.youtube.com/watch?v=vc4ROoVuDpA)
+- [Maquette](https://www.youtube.com/watch?v=vc4ROoVuDpA)
 
 ### Disposition :
 
+vue de face | vue de haut
+:-------------------------:|:-------------------------:
 ![face](photos/luminatura_vue_face.jpg)|![haut](photos/luminatura_vue_haut.jpg)
 *Shéma du dispositif, photo faite par l'équipe du dipositif*
 
