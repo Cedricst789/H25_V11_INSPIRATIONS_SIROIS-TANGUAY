@@ -133,19 +133,16 @@ Ce dispositif multimédias à comme de créer un tunnel qui met l'ambience que l
 ### Disposition :
 
 
-![face](photos/luminatura_vue_face.jpg)
+![face](photos/internature_vue_face.jpg)
 
 *Vue de face*
-![haut](photos/luminatura_vue_haut.jpg)
+![haut](photos/internature_vue_haut.jpg)
 
 *Vue de haut*
-![haut](photos/luminatura_vue_coter.jpg)
-
-*Vue de coter*
 
 *Shéma du dispositif, photo faite par l'équipe du dipositif*
 
 ### Ressenti personnel :
-J'ai adoré ce dispostif! Le fait que ça sois un spectacle de couleur que nous contrôlons et aussi le fait que pour faire apparaître certaines couleurs fallait être plusieurs a touchers aux plaques intéractives.
+J'ai bien aimé le concept de la serre évolué. Ça crée une ambiance de marcher dans une forest et c'est très bien réussi!
 
 ---
