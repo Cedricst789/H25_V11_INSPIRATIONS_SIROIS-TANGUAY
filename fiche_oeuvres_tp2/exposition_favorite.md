@@ -23,7 +23,7 @@ bleu | blanc
 jaune | mauve
 ![jaune](photos/jaune.jpg)|![mauve](photos/mauve.jpg)
 
-### Type d'installe : 
+### Type d'installation : 
 Immersive et interactive avec les couleurs et les sons quand nous touchons au piédestal.
 
 ### Fonctionnement du dispositif :
@@ -43,7 +43,7 @@ Couleur | Réaction
 Trois piédestals sont installés devant le dispositif. Chaque piédestal ressemble à ça : 
 
 <p align="center">
-  <img src="./photos/pied_haut_parleur">
+  <img src="./photos/pied_haut_parleur.jpg">
 </p>
 
 Au plafond il y a aussi un structure : 
