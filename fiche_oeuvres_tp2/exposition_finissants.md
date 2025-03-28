@@ -50,7 +50,7 @@ Ce dispositif multimédias à comme but de faire créer un arbre personnalisé p
 [Maquette](https://www.youtube.com/watch?v=vc4ROoVuDpA)
 
 ### Disposition :
-Vue de Face | Vue de coter
+
 :-------------------------:|:-------------------------:|:-------------------------:
 ![face](photos/fuga_vue_face.png)|![coter](photos/fuga_vue_coter.png)|![haut](photos/fuga_vue_haut.png)
 
@@ -58,9 +58,9 @@ Vue de Face | Vue de coter
 J'ai beaucoup aimé l'expérience qui offre avec leur dispositif multimédias. Je trouvais belle aussi l'idée de construire des arbres personnalisé. 
 
 ### Cours utilisé: 
-Audio 1
-Vidéo 
-Interactivité ludique
+- Audio 1
+- Vidéo 
+- Interactivité ludique
 
 ---
 
