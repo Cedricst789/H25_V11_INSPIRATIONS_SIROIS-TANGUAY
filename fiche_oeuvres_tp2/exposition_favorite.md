@@ -1,4 +1,4 @@
-# resonance 
+# Resonance : Exposition multimédias des finnissants de la *Technique Intégration Multimédias*
 - Où: Collège Montmorency
 - Type d'exposition: Exposition temporaire
 - Date de visite: le 18 mars
