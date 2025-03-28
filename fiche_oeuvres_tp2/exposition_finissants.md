@@ -110,7 +110,7 @@ J'ai beaucoup aimé l'expérience qui offre avec leur dispositif multimédias. J
 ## Internature
 
 <p align="center">
-  <img src="./photos/rose_mauve.jpg">
+  <img src="./photos/equipe_serre.jpg">
 </p>
 
 ### Les créateurs :
@@ -127,8 +127,8 @@ Ce dispositif multimédias à comme de créer un tunnel qui met l'ambience que l
 - RasberryPi
 - Câble (HDMI, Ethernet, audio)
 - Un ordinateur
-- Tissu et fils de métal
-- [Maquette](https://www.youtube.com/watch?v=vc4ROoVuDpA)
+- Feuille recycler
+- [Maquette](https://tprangers.github.io/internature/#/40_maquette/)
 
 ### Disposition :
 
