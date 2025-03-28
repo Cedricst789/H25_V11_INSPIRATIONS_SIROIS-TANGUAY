@@ -43,8 +43,15 @@ Couleur | Réaction
 Trois piédestals sont installés devant le dispositif. Chaque piédestal ressemble à ça : 
 
 <p align="center">
-  <img src="./photos/pied_haut_parleur.jpg">
+  <img src="./photos/pied_haut_parleur">
 </p>
+
+Au plafond il y a aussi un structure : 
+
+<p align="center">
+  <img src="./photos/luminatura_structure.jpg">
+</p>
+
 
 ### Composition :
 - Des projecteurs
