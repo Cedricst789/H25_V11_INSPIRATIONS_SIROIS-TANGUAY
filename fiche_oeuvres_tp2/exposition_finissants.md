@@ -51,7 +51,7 @@ Ce dispositif multimédias à comme but de faire créer un arbre personnalisé p
 
 ### Disposition :
 
-:-------------------------:|:-------------------------:|:-------------------------:
+
 ![face](photos/fuga_vue_face.png)|![coter](photos/fuga_vue_coter.png)|![haut](photos/fuga_vue_haut.png)
 
 ### Ressenti personnel :
