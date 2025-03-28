@@ -107,24 +107,24 @@ J'ai beaucoup aimé l'expérience qui offre avec leur dispositif multimédias. J
 
 ---
 
-## Luminatura
+## Internature
 
 <p align="center">
   <img src="./photos/rose_mauve.jpg">
 </p>
 
 ### Les créateurs :
-- Créé par : Audrey Dandurand, Justine Rousseau, Camilia Bouatmani, Prethiah Rajaratnam, Ihab Mouhajer
-- #### [Leur intention](https://miaou-mafia.github.io/projet-luminatura/#/20_intention/)
+- Créé par : Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonternna Yi, Kenza El Harrif
+- #### [Leur intention](https://tprangers.github.io/internature/#/20_intention/)
 
 ### Description : 
-Ce dispositif multimédias à comme but de faire vivre un spectacle de couleur contrôler par l'utilisateur.
+Ce dispositif multimédias à comme de créer un tunnel qui met l'ambience que l'utilisateur veut.
 
 ### Composition :
 - Des projecteurs
-- Plaques en aciers
+- Serre
 - Des haut-parleurs
-- Des fleurs
+- RasberryPi
 - Câble (HDMI, Ethernet, audio)
 - Un ordinateur
 - Tissu et fils de métal
