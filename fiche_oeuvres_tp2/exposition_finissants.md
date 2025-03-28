@@ -53,7 +53,12 @@ Ce dispositif multimédias à comme but de faire vivre un spectacle de couleur c
 ### Disposition :
 
 
-![face](photos/luminatura_vue_face.jpg)|![haut](photos/luminatura_vue_haut.jpg)|![haut](photos/luminatura_vue_coter.jpg)
+![face](photos/luminatura_vue_face.jpg)
+*Vue de face*
+![haut](photos/luminatura_vue_haut.jpg)
+*Vue de haut*
+![haut](photos/luminatura_vue_coter.jpg)
+*Vue de coter*
 
 *Shéma du dispositif, photo faite par l'équipe du dipositif*
 
