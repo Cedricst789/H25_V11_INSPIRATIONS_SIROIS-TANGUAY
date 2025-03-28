@@ -253,10 +253,10 @@ Ce dispositif multimédias à comme objectif de laissé l'utilisateur dessiner d
 ### Disposition :
 
 *Vue de haut*
-![haut](photos/con_du8_vue_haut.webp)
+![haut](photos/prismatica_vue_haut.jpg)
 
 
-![coter](photos/con_du8_vue_coter.webp)
+![coter](photos/prismatica_vue_coter.jpg)
 )
 
 *Vue de coter*
@@ -264,6 +264,46 @@ Ce dispositif multimédias à comme objectif de laissé l'utilisateur dessiner d
 *Shéma du dispositif, photo faite par l'équipe du dipositif*
 
 ### Ressenti personnel :
-J'ai aimé le concept de l'équipe. Transférer un movement réel dans un écrans comme intéraction est brillant ! 
+Je suis encore surpris qu'on peut recréer un dessins faite a la main par nous dans un logiciel. Que nos dessins sois faite sur un simple tableau blanc wow!
+
+---
+## Projet Arcadia
+
+<p align="center">
+  <img src="./photos/among_us.jpg">
+</p>
+
+### Les créateurs :
+- Créé par : Dominic Yale, William Beauvais, Anton Nikulin
+- #### [Leur intention](https://www.youtube.com/watch?v=5qRcwjpivJs)
+
+### Description : 
+Ce dispositif multimédias à comme objectif de créer une arcade comme dans le bon vieux temps. Avec un jeu qui est profond et dédier. 
+
+### Composition :
+- Écrans 24 pouces
+- Joystick et boutons
+- Des haut-parleurs
+- Bartop Arcade
+- Câble (HDMI, Ethernet, audio)
+- Un ordinateur
+- Planche de MDF 4 pieds x 8 pieds
+- [Maquette](https://cousi-cousa.github.io/Arcadia/#/40_maquette/)
+
+### Disposition :
+
+*Vue de haut*
+![haut](photos/prismatica_vue_haut.jpg)
+
+
+![coter](photos/prismatica_vue_coter.jpg)
+)
+
+*Vue de coter*
+
+*Shéma du dispositif, photo faite par l'équipe du dipositif*
+
+### Ressenti personnel :
+Je suis encore surpris qu'on peut recréer un dessins faite a la main par nous dans un logiciel. Que nos dessins sois faite sur un simple tableau blanc wow!
 
 ---
