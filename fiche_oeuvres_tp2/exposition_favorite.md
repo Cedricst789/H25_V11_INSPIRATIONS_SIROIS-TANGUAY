@@ -23,6 +23,16 @@ bleu | blanc
 jaune | mauve
 ![jaune](photos/jaune.jpg)|![mauve](photos/mauve.jpg)
 
+### Type d'installe : 
+Immersive et interactive avec les couleurs et les sons quand nous touchons au piédestal.
+
+### Fonctionnement du dispositif :
+Les piédestals réagissent à un contact de la mains de l'utilisateur.
+Point de vue | Teste
+:-------------------------:|:-------------------------:
+![point vue](photos/pablo_pdv.jpg)|![teste](photos/pablo_teste.jpg)
+![rose_mauve](photos/rose_mauve.jpg)|![wow](photos/pablo_wow.jpg)
+
 ### Composition :
 - Des projecteurs
 - Plaques en aciers
