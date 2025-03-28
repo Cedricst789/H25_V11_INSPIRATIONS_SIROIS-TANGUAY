@@ -176,6 +176,7 @@ Ce dispositif multimédias à comme de faire un jeu intéractif ou qu'on jou ave
 ![haut](photos/ethria_vue_haut.jpg)
 
 *Vue de haut*
+<br>
 ![coter](photos/etheria_vue_coter.jpg)
 
 *Vue de coter*
