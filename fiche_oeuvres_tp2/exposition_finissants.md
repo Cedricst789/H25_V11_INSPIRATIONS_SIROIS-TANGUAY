@@ -17,12 +17,12 @@ Deu 17 au 21 Mars
 
 
 ## Les dispositifs multimédias à disposition
-- [Prismatica](https://pootpookies.github.io/Prismatica/#/)
-- [CON DU8](https://gearshift-games.github.io/Web-C0N-DU8/#/)
 - [Luminatura](https://miaou-mafia.github.io/projet-luminatura/#/)
-- [Etheria](https://ethereal-creators.github.io/Etheria/#/)
 - [Fuga](https://escapism-fuga.github.io/Fuga/#/)
+- [Etheria](https://ethereal-creators.github.io/Etheria/#/)
 - [Internature](https://tprangers.github.io/internature/#/)
+- [CON DU8](https://gearshift-games.github.io/Web-C0N-DU8/#/)
+- [Prismatica](https://pootpookies.github.io/Prismatica/#/)
 - [Arcadia](https://cousi-cousa.github.io/Arcadia/#/)
 
 ---
