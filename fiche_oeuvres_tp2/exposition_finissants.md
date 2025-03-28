@@ -59,7 +59,7 @@ Ce dispositif multimédias à comme but de faire vivre un spectacle de couleur c
 ![haut](photos/luminatura_vue_haut.jpg)
 
 *Vue de haut*
-![haut](photos/luminatura_vue_coter.jpg)
+![coter](photos/luminatura_vue_coter.jpg)
 
 *Vue de coter*
 
@@ -162,27 +162,27 @@ Ce dispositif multimédias à comme de faire un jeu intéractif ou qu'on jou ave
 
 ### Composition :
 - Des projecteurs
-- Serre
+- Deux Lumières infrarouges
 - Des haut-parleurs
 - RasberryPi
 - Câble (HDMI, Ethernet, audio)
 - Un ordinateur
-- Feuille recycler
+- Guirlande végétation
 - [Maquette](https://ethereal-creators.github.io/Etheria/#/40_maquette/)
 
 ### Disposition :
 
 
-![face](photos/internature_vue_face.jpg)
-
-*Vue de face*
-![haut](photos/internature_vue_haut.jpg)
+![haut](photos/ethria_vue_haut.jpg)
 
 *Vue de haut*
+![coter](photos/etheria_vue_coter.jpg)
+
+*Vue de coter*
 
 *Shéma du dispositif, photo faite par l'équipe du dipositif*
 
 ### Ressenti personnel :
-J'ai bien aimé le concept de la serre évolué. Ça crée une ambiance de marcher dans une forest et c'est très bien réussi!
+J'ai aimé le jeu ! J'ai adoré le fait que ça sois un jeu en équipe pour défendre et non attaquer un objectif.
 
 ---
