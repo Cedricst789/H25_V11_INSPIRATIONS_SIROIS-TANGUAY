@@ -51,8 +51,8 @@ Ce dispositif multimédias à comme but de faire créer un arbre personnalisé p
 
 ### Disposition :
 Vue de Face | Vue de coter
-:-------------------------:|:-------------------------:
-![face](photos/fuga_vue_face)|![coter](photos/fuga_vue_coter)
+:-------------------------:|:-------------------------:|:-------------------------:
+![face](photos/fuga_vue_face.png)|![coter](photos/fuga_vue_coter.png)|![haut](photos/fuga_vue_haut.png)
 
 ### Ressenti personnel :
 J'ai beaucoup aimé l'expérience qui offre avec leur dispositif multimédias. Je trouvais belle aussi l'idée de construire des arbres personnalisé. 
