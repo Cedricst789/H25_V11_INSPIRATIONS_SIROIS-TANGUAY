@@ -30,28 +30,29 @@ Deu 17 au 21 Mars
 ## Luminatura
 
 <p align="center">
-  <img src="./photos/fuga.jpg">
+  <img src="./photos/rose_mauve.jpg">
 </p>
 
 ### Les créateurs :
-- Créé par : Matis Labelle, Tristan Khadka Abdel, Daniel Dezemma, Ali Djeral, Yavuz-Selim Gucluer
-- #### [Leur intention](https://www.youtube.com/watch?v=rhUf4A05L-w)
+- Créé par : Audrey Dandurand, Justine Rousseau, Camilia Bouatmani, Prethiah Rajaratnam, Ihab Mouhajer
+- #### [Leur intention](https://miaou-mafia.github.io/projet-luminatura/#/20_intention/)
 
 ### Description : 
-Ce dispositif multimédias à comme but de faire créer un arbre personnalisé pour chaque utilisateur. Plus on intéragie avec le disositif, plus l'arbre évolue.
+Ce dispositif multimédias à comme but de faire vivre un spectacle de couleur contrôler par l'utilisateur.
 
 ### Composition :
-- Générateur de fréquence
-- Trois télévisions
-- Deux haut-parleurs
-- Décor recyclé
+- Des projecteurs
+- Plaques en aciers
+- Des haut-parleurs
+- Des fleurs
 - Câble (HDMI, Ethernet, audio)
-- Projecteur
+- Un ordinateur
+- Tissu et fils de métal
 [Maquette](https://www.youtube.com/watch?v=vc4ROoVuDpA)
 
 ### Disposition :
 
-![face](photos/fuga_vue_face.png)|![coter](photos/fuga_vue_coter.png)|![haut](photos/fuga_vue_haut.png)
+![face](photos/fuga_vue_face.png)|![haut](photos/fuga_vue_haut.png)
 *Shéma du dispositif, photo faite par l'équipe du dipositif*
 
 ### Ressenti personnel :
