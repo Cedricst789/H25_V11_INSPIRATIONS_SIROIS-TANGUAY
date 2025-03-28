@@ -21,7 +21,6 @@ bleu | blanc
 :-------------------------:|:-------------------------:
 ![bleu](photos/bleu.jpg)|![blanc](photos/blanc.jpg)
 jaune | mauve
-:-------------------------:|:-------------------------:
 ![jaune](photos/jaune.jpg)|![mauve](photos/mauve.jpg)
 
 ### Composition :
