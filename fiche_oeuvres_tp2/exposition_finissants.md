@@ -146,3 +146,43 @@ Ce dispositif multimédias à comme de créer un tunnel qui met l'ambience que l
 J'ai bien aimé le concept de la serre évolué. Ça crée une ambiance de marcher dans une forest et c'est très bien réussi!
 
 ---
+
+## Etheria
+
+<p align="center">
+  <img src="./photos/equipe_scanne.jpg">
+</p>
+
+### Les créateurs :
+- Créé par : Joshua Gonzalez-Barrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx, Maik Hamel
+- #### [Leur intention](https://ethereal-creators.github.io/Etheria/#/20_intention/)
+
+### Description : 
+Ce dispositif multimédias à comme de faire un jeu intéractif ou qu'on jou avec des cannes. Le jeu est un jeu coopératif ou les utilisateurs on comme but de défendre le millieu de la table.
+
+### Composition :
+- Des projecteurs
+- Serre
+- Des haut-parleurs
+- RasberryPi
+- Câble (HDMI, Ethernet, audio)
+- Un ordinateur
+- Feuille recycler
+- [Maquette](https://ethereal-creators.github.io/Etheria/#/40_maquette/)
+
+### Disposition :
+
+
+![face](photos/internature_vue_face.jpg)
+
+*Vue de face*
+![haut](photos/internature_vue_haut.jpg)
+
+*Vue de haut*
+
+*Shéma du dispositif, photo faite par l'équipe du dipositif*
+
+### Ressenti personnel :
+J'ai bien aimé le concept de la serre évolué. Ça crée une ambiance de marcher dans une forest et c'est très bien réussi!
+
+---
