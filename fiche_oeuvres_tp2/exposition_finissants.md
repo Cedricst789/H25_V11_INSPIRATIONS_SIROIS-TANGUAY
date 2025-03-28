@@ -32,6 +32,7 @@ Deu 17 au 21 Mars
 <p align="center">
   <img src="./photos/rose_mauve.jpg">
 </p>
+*Photo prise par moi*
 
 ### Les créateurs :
 - Créé par : Audrey Dandurand, Justine Rousseau, Camilia Bouatmani, Prethiah Rajaratnam, Ihab Mouhajer
@@ -75,6 +76,7 @@ J'ai adoré ce dispostif! Le fait que ça sois un spectacle de couleur que nous 
 <p align="center">
   <img src="./photos/fuga.jpg">
 </p>
+*Photo prise par Olivier*
 
 ### Les créateurs :
 - Créé par : Matis Labelle, Tristan Khadka Abdel, Daniel Dezemma, Ali Djeral, Yavuz-Selim Gucluer
@@ -112,6 +114,7 @@ J'ai beaucoup aimé l'expérience qui offre avec leur dispositif multimédias. J
 <p align="center">
   <img src="./photos/equipe_serre.jpg">
 </p>
+*Photo prise par moi*
 
 ### Les créateurs :
 - Créé par : Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonternna Yi, Kenza El Harrif
@@ -152,6 +155,7 @@ J'ai bien aimé le concept de la serre évolué. Ça crée une ambiance de march
 <p align="center">
   <img src="./photos/equipe_scanne.jpg">
 </p>
+*Photo prise par moi*
 
 ### Les créateurs :
 - Créé par : Joshua Gonzalez-Barrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx, Maik Hamel
@@ -192,6 +196,7 @@ J'ai aimé le jeu ! J'ai adoré le fait que ça sois un jeu en équipe pour déf
 <p align="center">
   <img src="./photos/velo.jpg">
 </p>
+*Photo prise par moi*
 
 ### Les créateurs :
 - Créé par : Ian_Corbin, Samuel_Desmeules_Voyer, Alexandre_Gervais, Kevin_Malric, Jérémy Roy Coté
@@ -233,6 +238,7 @@ J'ai aimé le concept de l'équipe. Transférer un movement réel dans un écran
 <p align="center">
   <img src="./photos/among_us.jpg">
 </p>
+*Photo prise par moi*
 
 ### Les créateurs :
 - Créé par : Vincent Delisle, Ikrame Rata, Jérémy Duverseau
@@ -271,8 +277,9 @@ Je suis encore surpris qu'on peut recréer un dessins faite a la main par nous d
 ## Projet Arcadia
 
 <p align="center">
-  <img src="./photos/among_us.jpg">
+  <img src="./photos/prismatica.jpg">
 </p>
+*Photo prise par Olivier*
 
 ### Les créateurs :
 - Créé par : Dominic Yale, William Beauvais, Anton Nikulin
