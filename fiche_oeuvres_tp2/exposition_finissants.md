@@ -217,7 +217,7 @@ Ce dispositif multimédias à comme objectif de faire une aventure qui se transm
 
 
 ![coter](photos/con_du8_vue_coter.webp)
-)
+
 
 *Vue de coter*
 
@@ -258,7 +258,7 @@ Ce dispositif multimédias à comme objectif de laissé l'utilisateur dessiner d
 
 
 ![coter](photos/prismatica_vue_coter.jpg)
-)
+
 
 *Vue de coter*
 
@@ -298,7 +298,7 @@ Ce dispositif multimédias à comme objectif de créer une arcade comme dans le 
 
 
 ![coter](photos/projet_arcadia_vue_face.jpg)
-)
+
 
 *Vue de coter*
 
