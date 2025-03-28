@@ -193,7 +193,7 @@ J'ai aimé le jeu ! J'ai adoré le fait que ça sois un jeu en équipe pour déf
 </p>
 
 ### Les créateurs :
-- Créé par : Ian_Corbin, Samuel_Desmeules_Voyer, Alexandre_Gervais, Kevin_Malric, Jérémy_Roy_Coté
+- Créé par : Ian_Corbin, Samuel_Desmeules_Voyer, Alexandre_Gervais, Kevin_Malric, Jérémy Roy Coté
 - #### [Leur intention](https://www.youtube.com/watch?v=wziDJZdT_d4)
 
 ### Description : 
@@ -211,10 +211,51 @@ Ce dispositif multimédias à comme objectif de faire une aventure qui se transm
 
 ### Disposition :
 
-
+*Vue de haut*
 ![haut](photos/con_du8_vue_haut.webp)
 
+
+![coter](photos/con_du8_vue_coter.webp)
+)
+
+*Vue de coter*
+
+*Shéma du dispositif, photo faite par l'équipe du dipositif*
+
+### Ressenti personnel :
+J'ai aimé le concept de l'équipe. Transférer un movement réel dans un écrans comme intéraction est brillant ! 
+
+---
+
+## PRISMATICA
+
+<p align="center">
+  <img src="./photos/among_us.jpg">
+</p>
+
+### Les créateurs :
+- Créé par : Vincent Delisle, Ikrame Rata, Jérémy Duverseau
+- #### [Leur intention](https://www.youtube.com/watch?v=d6NkifknkFk)
+
+### Description : 
+Ce dispositif multimédias à comme objectif de laissé l'utilisateur dessiner dans un tableau intéractif, pour que les dessins de tout les utilisateurs soient combiné.
+
+### Composition :
+- Caméra
+- Tableau blanc
+- Des haut-parleurs
+- Expo Neon
+- Câble (HDMI, Ethernet, audio)
+- Un ordinateur
+- Bandes LED 3M 6000-6500k
+- [Maquette](https://www.youtube.com/watch?v=ztBVyXd31gE&t=1s)
+
+### Disposition :
+
 *Vue de haut*
+![haut](photos/con_du8_vue_haut.webp)
+
+
 ![coter](photos/con_du8_vue_coter.webp)
 )
 
