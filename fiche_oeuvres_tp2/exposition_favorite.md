@@ -43,7 +43,7 @@ Couleur | Réaction
 Trois piédestals sont installés devant le dispositif. Chaque piédestal ressemble à ça : 
 
 <p align="center">
-  <img src="./photos/pied_haut_parleur">
+  <img src="./photos/pied_haut_parleur.jpg">
 </p>
 
 ### Composition :
