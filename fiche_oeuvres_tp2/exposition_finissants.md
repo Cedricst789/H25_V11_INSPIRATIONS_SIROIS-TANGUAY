@@ -52,16 +52,11 @@ Ce dispositif multimédias à comme but de faire vivre un spectacle de couleur c
 
 ### Disposition :
 
-![face](photos/fuga_vue_face.png)|![haut](photos/fuga_vue_haut.png)
+![face](photos/luminatura_vue_face.jpg)|![haut](photos/luminatura_vue_haut.jpg)
 *Shéma du dispositif, photo faite par l'équipe du dipositif*
 
 ### Ressenti personnel :
-J'ai beaucoup aimé l'expérience qui offre avec leur dispositif multimédias. Je trouvais belle aussi l'idée de construire des arbres personnalisé. 
-
-### Cours utilisé: 
-- Audio 1
-- Vidéo 
-- Interactivité ludique
+J'ai adoré ce dispostif! Le fait que ça sois un spectacle de couleur que nous contrôlons et aussi le fait que pour faire apparaître certaines couleurs fallait être plusieurs a touchers aux plaques intéractives.
 
 ---
 
