@@ -186,3 +186,42 @@ Ce dispositif multimédias à comme de faire un jeu intéractif ou qu'on jou ave
 J'ai aimé le jeu ! J'ai adoré le fait que ça sois un jeu en équipe pour défendre et non attaquer un objectif.
 
 ---
+## C0N DU8
+
+<p align="center">
+  <img src="./photos/velo.jpg">
+</p>
+
+### Les créateurs :
+- Créé par : Ian_Corbin, Samuel_Desmeules_Voyer, Alexandre_Gervais, Kevin_Malric, Jérémy_Roy_Coté
+- #### [Leur intention](https://www.youtube.com/watch?v=wziDJZdT_d4)
+
+### Description : 
+Ce dispositif multimédias à comme objectif de faire une aventure qui se transmet en faisant du vélo, qui est transferé a l'écran.
+
+### Composition :
+- Un vélo stationnaire
+- Voltmètre
+- Des haut-parleurs
+- Roue en polyuréthane
+- Câble (HDMI, Ethernet, audio)
+- Un ordinateur
+- Écran tactile
+- [Maquette](https://www.youtube.com/watch?v=z30DYRxXN6c)
+
+### Disposition :
+
+
+![haut](photos/ethria_vue_haut.jpg)
+
+*Vue de haut*
+![coter](photos/etheria_vue_coter.jpg)
+
+*Vue de coter*
+
+*Shéma du dispositif, photo faite par l'équipe du dipositif*
+
+### Ressenti personnel :
+J'ai aimé le jeu ! J'ai adoré le fait que ça sois un jeu en équipe pour défendre et non attaquer un objectif.
+
+---
