@@ -293,10 +293,10 @@ Ce dispositif multimédias à comme objectif de créer une arcade comme dans le 
 ### Disposition :
 
 *Vue de haut*
-![haut](photos/prismatica_vue_haut.jpg)
+![haut](photos/projet_arcadia_vue_haut.jpg)
 
 
-![coter](photos/prismatica_vue_coter.jpg)
+![coter](photos/projet_arcadia_vue_face.jpg)
 )
 
 *Vue de coter*
@@ -304,6 +304,6 @@ Ce dispositif multimédias à comme objectif de créer une arcade comme dans le 
 *Shéma du dispositif, photo faite par l'équipe du dipositif*
 
 ### Ressenti personnel :
-Je suis encore surpris qu'on peut recréer un dessins faite a la main par nous dans un logiciel. Que nos dessins sois faite sur un simple tableau blanc wow!
+Je trouvais ça bien avoir une arcade dans l'exposition! J'aime le fais qu'on se sent dans une arcade. 
 
 ---
