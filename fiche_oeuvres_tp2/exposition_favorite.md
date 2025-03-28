@@ -61,6 +61,16 @@ Au plafond il y a aussi un structure :
 - Câble (HDMI, Ethernet, audio)
 - Un ordinateur
 - Tissu et fils de métal
+- Deux lanternes
+- Trois fleurs (tissus blanc et jaune ainsi que des fils métalliques)
+  Câble métallique en acier inoxydable
+- Serre-câbles
+- Trois poteaux
+- Six clamps doubles Pro Burger
+- Une plaque en acier
+- Un minicontrôleur Atom M5
+- Trois résisteurs
+- 2 supports imprimés en 3D
 - [Maquette](https://www.youtube.com/watch?v=vc4ROoVuDpA)
 
 ### Disposition :
@@ -78,7 +88,14 @@ Au plafond il y a aussi un structure :
 
 *Shéma du dispositif, photo faite par l'équipe du dipositif*
 
-### Ressenti personnel :
-J'ai adoré ce dispostif! Le fait que ça sois un spectacle de couleur que nous contrôlons et aussi le fait que pour faire apparaître certaines couleurs fallait être plusieurs a touchers aux plaques intéractives.
+### Ce que j'ai le plus aimé :
 
----
+J'ai adoré l'idée et le visuel me donnait le goût d'essayer ce dispositif. Ça me donne des idées de travailler avec des couleurs et avec le son en particulié, car ça rend le projet beaucoup plus immersif et plus agréable au sens. J'ai aimé aussi que même si le dispositif était gros, il était compacte. Il prennait la place qu'il faut sans trop en prendre.
+
+### Ce que j'ai moins aimé :
+
+J'ai moins aimé le fait que nous avons pas tout les couleurs à disponibiliter pour l'expérience. Aussi j'aurai aimé que l'ambience change plus drastiquement comme le rouge aille une ambience plus 'Dark' pour faire un contraste.
+
+#### Référence : 
+
+[Luminatura](https://miaou-mafia.github.io/projet-luminatura/#/)
