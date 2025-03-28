@@ -31,7 +31,20 @@ Les piédestals réagissent à un contact de la mains de l'utilisateur.
 Point de vue | Teste
 :-------------------------:|:-------------------------:
 ![point vue](photos/pablo_pdv.jpg)|![teste](photos/pablo_teste.jpg)
+Couleur | Réaction
 ![rose_mauve](photos/rose_mauve.jpg)|![wow](photos/pablo_wow.jpg)
+
+### Mise en place : 
+
+<p align="center">
+  <img src="./photos/luminatura_vue_face.jpg">
+</p>
+
+Trois piédestals sont installés devant le dispositif. Chaque piédestal ressemble à ça : 
+
+<p align="center">
+  <img src="./photos/pied_haut_parleur">
+</p>
 
 ### Composition :
 - Des projecteurs
