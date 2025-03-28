@@ -212,16 +212,17 @@ Ce dispositif multimédias à comme objectif de faire une aventure qui se transm
 ### Disposition :
 
 
-![haut](photos/ethria_vue_haut.jpg)
+![haut](photos/con_du8_vue_haut.webp)
 
 *Vue de haut*
-![coter](photos/etheria_vue_coter.jpg)
+![coter](photos/con_du8_vue_coter.webp)
+)
 
 *Vue de coter*
 
 *Shéma du dispositif, photo faite par l'équipe du dipositif*
 
 ### Ressenti personnel :
-J'ai aimé le jeu ! J'ai adoré le fait que ça sois un jeu en équipe pour défendre et non attaquer un objectif.
+J'ai aimé le concept de l'équipe. Transférer un movement réel dans un écrans comme intéraction est brillant ! 
 
 ---
