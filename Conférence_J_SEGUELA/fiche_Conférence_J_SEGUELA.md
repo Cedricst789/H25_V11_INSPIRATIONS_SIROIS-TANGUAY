@@ -38,4 +38,4 @@ Cette conférence nous a montré un autre style et forme possible de nos futures
 J'ai trouvé les dispositifs facinants, mais surtout la sphère qui m'a impressionné.
 
 
-*[Source](https://www.lozano-hemmer.com)*
+*[Référence](https://www.lozano-hemmer.com)*
