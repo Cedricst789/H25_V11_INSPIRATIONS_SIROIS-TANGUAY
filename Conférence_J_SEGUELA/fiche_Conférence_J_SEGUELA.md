@@ -14,7 +14,7 @@ Durant cette conférence Jade nous à parlé principalement de deux dispositifs 
   <i>Photo prit du site de Lozano-Hemmer</i>
 </p>
 
- *[Source](https://www.lozano-hemmer.com/sphere_packing_bach.php) *
+ *[Source](https://www.lozano-hemmer.com/sphere_packing_bach.php)*
 
 Ce dispositif est unique en son genre. C'est une grosse sphère de trois mètres de haut avec pleins de fils qui vient se connecter a l'arrière d'elle
 Qui à été créer pour faire vivre une expérience unique avec de la musique. Quand on rentre a l'intérieur de ce dispositif, on peut entre plusieur musique qui jouent en même temps.
@@ -24,8 +24,10 @@ Sur chaqu'un des 1128 hauts parleurs, il y a une petite lumière rouge qui indiq
 ### La deuxième: Shadow Tuner
 <p align="center">
   <img src="./photos/shadow_tuner.jpg" width="500px"><br>
-  <i>Photo prit du site de Lozano-Hemmer *[Source](https://www.lozano-hemmer.com/shadow_tuner.php) *</i>
+  <i>Photo prit du site de Lozano-Hemmer</i>
 </p>
+
+*[Source](https://www.lozano-hemmer.com/shadow_tuner.php)*
 
 Ce dispositif a été créé sur une petite île artificielle à Abu Dhabi dans les Émirats arabes unis.
 Il représente un terre et a comme but d'intéragir avec l'utilisateur, car quand qu'elle appercoit qeulqu'un la radio local de où on regarde la terre s'active automatiquement.
