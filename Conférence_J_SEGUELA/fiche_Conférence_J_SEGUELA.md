@@ -23,7 +23,7 @@ Sur chaqu'un des 1128 hauts parleurs, il y a une petite lumière rouge qui indiq
 ### La deuxième: Shadow Tuner
 <p align="center">
   <img src="./photos/shadow_tuner.jpg" width="500px"><br>
-  <i>Photo prit du site de Lozano-Hemmer *[Source](https://www.lozano-hemmer.com/shadow_tuner.php)*</i>
+  <i>Photo prit du site de Lozano-Hemmer *[Source](https://www.lozano-hemmer.com/shadow_tuner.php) *</i>
 </p>
 
 Ce dispositif a été créé sur une petite île artificielle à Abu Dhabi dans les Émirats arabes unis.
