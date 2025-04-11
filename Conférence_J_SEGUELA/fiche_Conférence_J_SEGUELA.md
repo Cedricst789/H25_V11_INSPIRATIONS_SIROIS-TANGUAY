@@ -13,7 +13,7 @@ Durant cette conférence Jade nous à parlé principalement de deux dispositifs 
   <img src="./photos/sphere.jpg" width="500px"><br>
   <i>Photo prit du site de Lozano-Hemmer</i>
 </p>
- *[Source] (https://www.lozano-hemmer.com/sphere_packing_bach.php)*
+ *[Source](https://www.lozano-hemmer.com/sphere_packing_bach.php)*
 
 Ce dispositif est unique en son genre. C'est une grosse sphère de trois mètres de haut avec pleins de fils qui vient se connecter a l'arrière d'elle
 Qui à été créer pour faire vivre une expérience unique avec de la musique. Quand on rentre a l'intérieur de ce dispositif, on peut entre plusieur musique qui jouent en même temps.
