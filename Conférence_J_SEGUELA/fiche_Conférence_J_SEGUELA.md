@@ -7,16 +7,23 @@ Rafael est un artiste née au mexique, mais canadien depuis 1989. Il a étudié 
 
 Durant cette conférence Jade nous à parlé principalement de deux dispositifs multimédias.
 
-
-
-<p align="center">
-  <img src="./photos/shadow_tuner.jpg" width="500px"><br>
-  <i>Photo tirée du site de Lozano-Hemmer</i>
-</p>
+### La première: Sphere Packing: Bach
 
 <p align="center">
   <img src="./photos/sphere.jpg" width="500px"><br>
   <i>Photo tirée du site de Lozano-Hemmer</i>
 </p>
+
+Ce dispositif est unique en son genre. C'est une grosse sphère de trois mètres de haut avec pleins de fils qui vient se connecter a l'arrière d'elle
+Qui à été créer pour faire vivre une expérience unique avec de la musique. Quand on rentre a l'intérieur de ce dispositif, on peut entre plusieur musique qui jouent en même temps.
+Sur chaqu'un des 1128 hauts parleurs, il y a une petite lumière rouge qui indique quel haut parleur est en tain d'émet de la musique.
+
+
+### La deuxième: Shadow Tuner
+<p align="center">
+  <img src="./photos/shadow_tuner.jpg" width="500px"><br>
+  <i>Photo tirée du site de Lozano-Hemmer</i>
+</p>
+
 
 *[Source](https://www.lozano-hemmer.com)*
