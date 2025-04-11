@@ -11,7 +11,7 @@ Durant cette conférence Jade nous à parlé principalement de deux dispositifs 
 
 <p align="center">
   <img src="./photos/sphere.jpg" width="500px"><br>
-  <i>Photo prit du site de Lozano-Hemmer *[Source]:(https://www.lozano-hemmer.com/sphere_packing_bach.php)*</i>
+  <i>Photo prit du site de Lozano-Hemmer *[Source]:(https://www.lozano-hemmer.com/sphere_packing_bach.php)* </i>
 </p>
 
 Ce dispositif est unique en son genre. C'est une grosse sphère de trois mètres de haut avec pleins de fils qui vient se connecter a l'arrière d'elle
