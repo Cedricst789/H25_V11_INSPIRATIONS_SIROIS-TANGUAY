@@ -1,6 +1,6 @@
 # Conférence sur Rafael Lozano-Hemmer présenter par Jade Seguela 
 
-## Pésenté le 25 mars à la salle claude legault à Montmorency
+## Pésenté le 25 mars à la salle Claude Legault à Montmorency
 
 Dans cette présentation nous avons pus découvrir Jade Seguela qui est venu nous parler de l'artiste multimédias Rafael Lozano-Hemmer.
 Rafael est un artiste née au mexique, mais canadien depuis 1989. Il a étudié a Concordia a Montréal en Chimie et physique.
