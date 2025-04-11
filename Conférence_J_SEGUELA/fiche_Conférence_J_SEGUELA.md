@@ -7,4 +7,4 @@ Dans cette présentation nous avons pus découvrir Jade Seguela qui est venu nou
 
 
 
-*Source : [Biographie de Rafael Lozano-Hemmer](https://www.lozano-hemmer.com)*
+*[Source](https://www.lozano-hemmer.com)*
