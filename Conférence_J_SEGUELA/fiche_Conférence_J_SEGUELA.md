@@ -2,10 +2,10 @@
 
 ## Pésenté le 25 mars à la salle Claude Legault à Montmorency
 
-Dans cette présentation nous avons pus découvrir Jade Seguela qui est venu nous parler de l'artiste multimédias Rafael Lozano-Hemmer.
-Rafael est un artiste née au mexique, mais canadien depuis 1989. Il a étudié a Concordia a Montréal en Chimie et physique.
+Dans cette présentation, nous avons pu découvrir Jade Seguela, qui est venue nous parler de l'artiste multimédia Rafael Lozano-Hemmer.
+Rafael est un artiste né au Mexique, mais Canadien depuis 1989. Il a étudié à Concordia, à Montréal, en chimie et en physique.
 
-Durant cette conférence Jade nous à parlé principalement de deux dispositifs multimédias.
+Durant cette conférence, Jade nous a parlé principalement de deux dispositifs multimédias.
 
 ### La première: Sphere Packing: Bach
 
@@ -16,9 +16,9 @@ Durant cette conférence Jade nous à parlé principalement de deux dispositifs 
 
  *[Source](https://www.lozano-hemmer.com/sphere_packing_bach.php)*
 
-Ce dispositif est unique en son genre. C'est une grosse sphère de trois mètres de haut avec pleins de fils qui vient se connecter a l'arrière d'elle
-Qui à été créer pour faire vivre une expérience unique avec de la musique. Quand on rentre a l'intérieur de ce dispositif, on peut entre plusieur musique qui jouent en même temps.
-Sur chaqu'un des 1128 hauts parleurs, il y a une petite lumière rouge qui indique quel haut parleur est en tain d'émet de la musique.
+Ce dispositif est unique en son genre. C’est une grande sphère de trois mètres de haut, avec plein de fils connectés à son arrière.
+Elle a été créée pour faire vivre une expérience immersive à travers la musique. Quand on entre à l’intérieur de ce dispositif, on peut entendre plusieurs musiques qui jouent en même temps.
+Sur chacun des 1 128 haut-parleurs, il y a une petite lumière rouge qui indique lequel est en train d’émettre de la musique.
 
 
 ### La deuxième: Shadow Tuner
@@ -29,17 +29,16 @@ Sur chaqu'un des 1128 hauts parleurs, il y a une petite lumière rouge qui indiq
 
 *[Source](https://www.lozano-hemmer.com/shadow_tuner.php)*
 
-Ce dispositif a été créé sur une petite île artificielle à Abu Dhabi dans les Émirats arabes unis.
-Il représente un terre et a comme but d'intéragir avec l'utilisateur, car quand qu'elle appercoit qeulqu'un la radio local de où on regarde la terre s'active automatiquement.
-Ce dispositif a rencontré des problèmes, comme le sable ou même le vent. Donc Rafael n'a pas pu assurer la durabilité de ce dispositif.
+Ce dispositif a été créé sur une petite île artificielle à Abu Dhabi, dans les Émirats arabes unis.
+Il représente une Terre miniature et a pour but d’interagir avec l’utilisateur. Lorsqu’il détecte la présence de quelqu’un, la radio locale correspondant à la direction depuis laquelle on observe la Terre s’active automatiquement.
+Ce dispositif a cependant rencontré des problèmes, notamment à cause du sable ou du vent. Rafael n’a donc pas pu garantir la durabilité de l’installation.
 
 ## De plus !
 Dans la conférence Jade nous a parlé de comment elle a rencontré Rafael et comment il l'a convaincu de rejoindre sont studio Antimodular composé de 25 membres.
 Elle a aussi parler de comment ce déroule son travail et quels sont c'est tâches dans le studio.
 
 ## En conclusion
-Cette conférence nous a montré un autre style et forme possible de nos futures employes. Des dispositifs uniques en leurs genres et facinants dans leurs conceptions.
-J'ai trouvé les dispositifs facinants, mais surtout la sphère qui m'a impressionné.
-
+Cette conférence nous a présenté un autre style et une autre forme possibles de nos futurs emplois : des dispositifs uniques en leur genre et fascinants dans leur conception.
+J’ai trouvé les dispositifs impressionnants, mais surtout la sphère, qui m’a particulièrement marqué.
 
 *[Référence](https://www.lozano-hemmer.com)*
