@@ -6,7 +6,7 @@
   <i>Photo prit par moi</i>
 </p>
 
- *[Source](https://www.mbam.qc.ca/fr/expositions/anri-sala/)*
+ *[Site Internet](https://www.mbam.qc.ca/fr/expositions/anri-sala/)*
  
 ## Ravel Ravel Interval 
 
