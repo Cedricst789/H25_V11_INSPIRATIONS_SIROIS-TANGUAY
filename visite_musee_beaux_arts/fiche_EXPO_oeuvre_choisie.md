@@ -12,3 +12,5 @@
   <img src="./photos/vue_ensemble.jpg" width="500px"><br>
   <i>Photo prit par moi</i>
 </p>
+
+ *[Site internet](https://www.mbam.qc.ca/fr/expositions/anri-sala/)*
