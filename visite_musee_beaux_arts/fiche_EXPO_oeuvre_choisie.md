@@ -14,3 +14,6 @@
 </p>
 
  *[Site internet](https://www.mbam.qc.ca/fr/expositions/anri-sala/)*
+
+Dans ce dispositif en don au Musée par Pierre Bourgie, deux interprétations du Concerto pour la main gauche en ré majeur de Maurice Ravel (1875-1937) sont présentées en simultané.
+Créée en 1929-1930, cette pièce musical est le résultat du pianiste Paul Wittgenstein après l’amputation de son bras droit lors de la Première Guerre mondiale.
