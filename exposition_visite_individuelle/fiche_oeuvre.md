@@ -2,14 +2,14 @@
 
 <p align="center">
   <img src="./photos/entrer_cedric.jpg" width="500px"><br>
-  <i>Moi photo prit par Ariane Lanctôt</i>
+  <i>Moi photo prise par Ariane Lanctôt</i>
 </p>
 
 ## FRAGMENTS D'ICI
 
 <p align="center">
   <img src="./photos/titre.jpg" width="500px"><br>
-  <i>Titre photo prit par moi</i>
+  <i>Titre photo prise par moi</i>
 </p>
 
 Cette exposition à été active du 28 janvier 2025 au 27 février 2025.
@@ -30,18 +30,18 @@ Les septs films :
 
 <p align="center">
   <img src="./photos/toit.jpg" width="500px"><br>
-  <i>Batiment de société des arts et technologiques photo prit par moi</i>
+  <i>Batiment de société des arts et technologiques photo prise par moi</i>
 </p>
 
-Ce dispositif est situé dans le dôme en haut de l'établissement de la société des arts technologiques.
+Ce dispositif est situé dans le dôme en haut de l'établissement de la société des arts technologiques. 
 
 ## Mise en place
 
-Quand-t-on rentre à l'intérieur du dôme, on apperçoit des coussins installés pour qu'on regarde le plafond.
+Quand-t-on rentre à l'intérieur du dôme, on apperçoit des coussins installés pour qu'on regarde le plafond. La spécialité du dôme était que toute l'écrans prenait l'entièreté de la surface.
 
 <p align="center">
   <img src="./photos/experience.jpg" width="500px"><br>
-  <i>Expérience véçu photo prit par moi</i>
+  <i>Expérience véçu photo prise par moi</i>
 </p>
 
 Dans le dôme, il y a 8 projecteurs dans la salle et le mur est plein de petits hauts parleurs.
@@ -54,5 +54,5 @@ Le tout contrôlé par une console sur le côté.
 
 <p align="center">
   <img src="./photos/zone_control.jpg" width="500px"><br>
-  <i> photo prit par moi</i>
+  <i>Console de contrôle photo prise par moi</i>
 </p>
