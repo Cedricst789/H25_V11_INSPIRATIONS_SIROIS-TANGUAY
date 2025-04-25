@@ -3,7 +3,8 @@
 
 Fragment d'ici est un programme de 7 films créer par des québecois.
 
-Point abordé: L'oeuvre, l'endroit, composants, expérience vécue.
+### Point abordé: 
+L'oeuvre, l'endroit, composants, expérience vécue.
 
  
 ## Développement :
