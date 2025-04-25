@@ -30,12 +30,8 @@ Ce type d'installation est immersive. Le fait que la seul chose que vous entende
 
 
 Premier écran | Deuxième écran
-:-------------------------:|:-------------------------:
+:-------------------------:|:---------------------------:
 ![Premier](photos/ecran_gauche.jpg)|![Deuxieme](/photos/ecran_droite.jpg)
-
-Sentir | Deviner
-:-------------------------:|:-------------------------:
-![sentir](photos/bonne/efra_sens.jpg)|![deviner](photos/bonne/oli_wow.jpg)
 
 
 <p align="left">
