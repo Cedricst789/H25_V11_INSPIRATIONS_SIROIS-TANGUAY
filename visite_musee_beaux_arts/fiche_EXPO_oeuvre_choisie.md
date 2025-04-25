@@ -26,7 +26,8 @@ Créée en 1929-1930, cette pièce musical est le résultat du pianiste Paul Wit
 
 Ce type d'installation est immersive. Le fait que la seul chose que vous entendez et regardez, c'est ce dispositif.
 
-## Mise en espace
+## Composantes
+
 Il faut:
 
 Des composanstes  fornies par L'artiste:
@@ -39,6 +40,9 @@ Des composantes fourni par la place:
 - Les hauts parleurs
 - 14 projecteurs
 - Les caches fils
+
+
+## Mise en espace
 
 Premier écran | Deuxième écran
 :-------------------------:|:---------------------------:
@@ -54,6 +58,12 @@ Vue que la salle est presque vide et que la seul interaction est un banc. La plu
   <img src="./photos/banc.jpg" width="500px"><br>
   <i>Banc photo prise par moi</i>
 </p>
+
+### Ce que j'ai le plus aimé: 
+La musique et l'idée sont excellente. Tu sens la tristesse dans le morceau.
+
+### Ce que j'ai le moins aimé:
+Qu'il y ai qu'un seul long banc. Il manquait de place où s'assoir.
 
 ## Référence
 
