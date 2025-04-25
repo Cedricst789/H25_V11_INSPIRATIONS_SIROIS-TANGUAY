@@ -1,1 +1,4 @@
-Dossier contenant la fiche d'exposition et un dossier des photos de cette fiche.
+# Dossier contenant :
+- La fiche d'exposition
+- Le plan de l'oral
+- Un dossier des photos de cette fiche
