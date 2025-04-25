@@ -8,9 +8,11 @@ Point abordé: L'oeuvre, l'endroit, composants, expérience vécue.
  
 ## Développement :
 
-### Oeuvre : movement caméra, son et visuel.
+### Oeuvre : 
+movement caméra, son et visuel.
 
-### Composants : projecteur, haut parleur, etc.
+### Composants : 
+projecteur, haut parleur, etc.
 
 ### Expérience vécue : 
 L'immersion était incroyable. Pas vue le temps passé. 
