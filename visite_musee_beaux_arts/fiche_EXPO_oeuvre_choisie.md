@@ -28,12 +28,12 @@ Ce type d'installation est immersive. Le fait que la seul chose que vous entende
 
 ## Mise en espace
 
-<p align="center">
+<p align="left">
   <img src="./photos/ecran_gauche.jpg" width="500px"><br>
   <i>premier écran photo prise par moi</i>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="./photos/ecran_droite.jpg" width="500px"><br>
   <i>deuxième écran photo prise par moi</i>
 </p>
