@@ -1,1 +1,3 @@
-Dossier contenant le tp5 et un dossier pour les photos
+# Dossier contenant :
+- Le tp5
+- Un dossier pour les photos
