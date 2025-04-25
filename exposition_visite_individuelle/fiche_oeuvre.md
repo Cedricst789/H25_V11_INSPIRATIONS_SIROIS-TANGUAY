@@ -24,8 +24,6 @@ Les septs films :
 - Welraumbahn
 - Inwardness
 
-#### [Site](https://sat.qc.ca/fr/evenements/fragments-dici)
-
 ## L'oeuvre
 
 <p align="center">
@@ -85,7 +83,5 @@ Si cette exposition revient de vous conseille d'y aller.
 
 ## Source
 
-<p align="center">
-  <img src="./photos/experience.jpg" width="500px"><br>
-  <i>Expérience véçu photo prise par moi</i>
-</p>
+#### [Site internet](https://sat.qc.ca/fr/evenements/fragments-dici)
+
