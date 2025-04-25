@@ -25,11 +25,17 @@ Dans ce dispositif en don au Musée par Pierre Bourgie, deux interprétations du
 Créée en 1929-1930, cette pièce musical est le résultat du pianiste Paul Wittgenstein après l’amputation de son bras droit lors de la Première Guerre mondiale.
 
 Ce type d'installation est immersive. Le fait que la seul chose que vous entendez et regardez, c'est ce dispositif.
+
+## Mise en espace
+
 <p align="center">
   <img src="./photos/ecran_gauche.jpg" width="500px"><br>
-  <i>Vue immersive photo prise par moi</i>
+  <i>premier écran photo prise par moi</i>
 </p>
 
-
+<p align="center">
+  <img src="./photos/ecran_droite.jpg" width="500px"><br>
+  <i>deuxième écran photo prise par moi</i>
+</p>
 
 
