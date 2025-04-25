@@ -10,6 +10,7 @@
   <img src="./photos/entrer_cedric.jpg" width="500px"><br>
   <i>Moi photo prit par Pablo</i>
 </p>
+
  *[Site Internet](https://www.mbam.qc.ca/fr/expositions/anri-sala/)*
  
 ## Ravel Ravel Interval 
@@ -23,3 +24,10 @@
 Dans ce dispositif en don au Musée par Pierre Bourgie, deux interprétations du Concerto pour la main gauche en ré majeur de Maurice Ravel (1875-1937) sont présentées en simultané.
 Créée en 1929-1930, cette pièce musical est le résultat du pianiste Paul Wittgenstein après l’amputation de son bras droit lors de la Première Guerre mondiale.
 
+<p align="center">
+  <img src="./photos/ecran_gauche.jpg" width="500px"><br>
+  <i>Vue immersive photo prise par moi</i>
+</p>
+
+
+Ce type d'installation est immersive. Le fait que la seul chose que vous entendez et regardez, c'est ce dispositif.
