@@ -1,11 +1,15 @@
 # VISITE ET EXPÉRIENCE D'UNE EXPOSITION ARTISTIQUE AU MUSÉE DES BEAUX-ARTS DE MONTRÉAL
 ### La visite a eu lieu le 4 avril 2025 au musée des beaux arts de montréal
 
-<p align="center">
+<p align="left">
   <img src="./photos/intro_photo.jpg" width="500px"><br>
   <i>Photo prit par moi</i>
 </p>
 
+<p align="right">
+  <img src="./photos/entrer_cedric.jpg" width="500px"><br>
+  <i>Photo prit par moi</i>
+</p>
  *[Site Internet](https://www.mbam.qc.ca/fr/expositions/anri-sala/)*
  
 ## Ravel Ravel Interval 
