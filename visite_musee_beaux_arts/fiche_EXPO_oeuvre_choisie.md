@@ -8,7 +8,7 @@
 
 <p align="right">
   <img src="./photos/entrer_cedric.jpg" width="500px"><br>
-  <i>Rosalie et sarah photo prit par moi</i>
+  <i>Moi photo prit par Pablo</i>
 </p>
  *[Site Internet](https://www.mbam.qc.ca/fr/expositions/anri-sala/)*
  
@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="./photos/vue_ensemble.jpg" width="500px"><br>
-  <i>Moi photo prit par Pablo</i>
+  <i>Vue ensemble photo prise par moi</i>
 </p>
 
 
