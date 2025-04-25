@@ -37,7 +37,7 @@ Des composantes fourni par la place:
 - Les deux écrans
 - les câbles d'alimentations
 - Les hauts parleurs
-- Les projecteurs
+- 14 projecteurs
 - Les caches fils
 
 Premier écran | Deuxième écran
