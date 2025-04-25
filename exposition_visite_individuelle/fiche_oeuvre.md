@@ -43,7 +43,7 @@ Dans l'image au dessus la caméra reculait et ça donnait une sensation de tombe
 
 Ce dispositif est situé dans le dôme en haut de l'établissement de la société des arts technologiques. 
 
-## Mise en place
+## Composantes
 
 Il faut:
 
@@ -59,6 +59,8 @@ Des composantes fourni par la place:
 - Les caches fils
 - Une console
 - Des coussins
+
+## Mise en espace
 
 Quand-t-on rentre à l'intérieur du dôme, on apperçoit des coussins installés pour qu'on regarde le plafond. La spécialité du dôme était que toute l'écrans prenait l'entièreté de la surface.
 
