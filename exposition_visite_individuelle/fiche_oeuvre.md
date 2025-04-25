@@ -51,5 +51,5 @@ Projecteurs | Hauts parleurs
 :-------------------------:|:---------------------------:
 ![Projecteurs](photos/projecteur.jpg)|![Hauts parleurs](photos/haut_parleur.jpg)
 Console | Coussins
-![Console](photos/zone_control.jpg)|![Coussins](photos/coussins.jpg)
+![Console](photos/zone_control.jpg)|![Coussins](photos/coussin.jpg)
 
