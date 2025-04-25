@@ -49,3 +49,10 @@ Dans le dôme, il y a 8 projecteurs dans la salle et le mur est plein de petits 
 Projecteurs | Hauts parleurs
 :-------------------------:|:---------------------------:
 ![Projecteurs](photos/projecteur.jpg)|![Hauts parleurs](photos/haut_parleur.jpg)
+
+Le tout contrôlé par une console sur le côté.
+
+<p align="center">
+  <img src="./photos/zone_control.jpg" width="500px"><br>
+  <i> photo prit par moi</i>
+</p>
