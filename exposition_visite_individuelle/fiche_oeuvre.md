@@ -29,7 +29,7 @@ Les septs films :
 ## L'oeuvre
 
 <p align="center">
-  <img src="./photos/exemple.jpg" width="500px"><br>
+  <img src="./photos/exemple_animation.jpg" width="500px"><br>
   <i>Image du film Immortelle photo prise par moi</i>
 </p>
 
