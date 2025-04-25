@@ -3,12 +3,12 @@
 
 <p align="left">
   <img src="./photos/intro_photo.jpg" width="500px"><br>
-  <i>Photo prit par moi</i>
+  <i>Photo prise par moi</i>
 </p>
 
 <p align="right">
   <img src="./photos/entrer_cedric.jpg" width="500px"><br>
-  <i>Moi photo prit par Pablo</i>
+  <i>Moi photo prise par Pablo</i>
 </p>
 
  *[Site Internet](https://www.mbam.qc.ca/fr/expositions/anri-sala/)*
