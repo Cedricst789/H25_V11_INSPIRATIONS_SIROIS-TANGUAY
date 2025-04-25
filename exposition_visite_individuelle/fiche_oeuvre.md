@@ -47,6 +47,21 @@ Ce dispositif est situé dans le dôme en haut de l'établissement de la sociét
 
 ## Mise en place
 
+Il faut:
+
+Des composanstes  fornies par L'artiste:
+- La vidéo
+- La musique
+
+Des composantes fourni par la place:
+- Le dôme
+- les câbles d'alimentations
+- Les hauts parleurs
+- 8 projecteurs
+- Les caches fils
+- Une console
+- Des coussins
+
 Quand-t-on rentre à l'intérieur du dôme, on apperçoit des coussins installés pour qu'on regarde le plafond. La spécialité du dôme était que toute l'écrans prenait l'entièreté de la surface.
 
 <p align="center">
@@ -62,3 +77,15 @@ Projecteurs | Hauts parleurs
 Console | Coussins
 ![Console](photos/zone_control.jpg)|![Coussins](photos/coussin.jpg)
 
+## Expérience vécue
+
+Personellement j'aurai aimé qu'elle soit disponible à l'année longue. Je n'ai pas vue passé les 42 minutes de la présentation et les films était très original. Les coussins étaient confortable et le volume du son était juste parfait, pas trop fort et pas trop faible. J'ai été surpris que le movement de caméra m'a pas donné mal au coeur. Donc, les movements de caméra était pas trop vite. 
+
+Si cette exposition revient de vous conseille d'y aller.
+
+## Source
+
+<p align="center">
+  <img src="./photos/experience.jpg" width="500px"><br>
+  <i>Expérience véçu photo prise par moi</i>
+</p>
