@@ -52,13 +52,12 @@ Vue que la salle est presque vide et que la seul interaction est un banc. La plu
 
 <p align="center">
   <img src="./photos/banc.jpg" width="500px"><br>
-  <i>Vue ensemble photo prise par moi</i>
+  <i>Banc photo prise par moi</i>
 </p>
 
 ## Référence
 
 <p align="center">
   <img src="./photos/reference.jpg" width="500px"><br>
-  <i>Vue ensemble photo prise par moi</i>
+  <i>Référence photo prise par moi</i>
 </p>
-
