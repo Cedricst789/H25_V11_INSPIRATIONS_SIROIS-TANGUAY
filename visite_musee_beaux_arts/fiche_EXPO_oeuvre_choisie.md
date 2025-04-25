@@ -48,3 +48,8 @@ Hauts parleurs | Projecteur
 
 ## Expérience vécue
 Vue que la salle est presque vide et que la seul interaction est un banc. La plus part des gens s'assoient sur le banc et regarde les deux écrans superposé l'un sur l'autre.
+
+<p align="center">
+  <img src="./photos/banc.jpg" width="500px"><br>
+  <i>Vue ensemble photo prise par moi</i>
+</p>
