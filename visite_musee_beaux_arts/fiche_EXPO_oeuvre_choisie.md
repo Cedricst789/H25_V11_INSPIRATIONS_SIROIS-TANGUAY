@@ -44,6 +44,5 @@ Premier écran | Deuxième écran
 :-------------------------:|:---------------------------:
 ![Premier](photos/ecran_gauche.jpg)|![Deuxieme](photos/ecran_droite.jpg)
 Hauts parleurs | Projecteur
-:-------------------------:|:---------------------------:
 ![Hauts parleurs](photos/haut_parleur.jpg)|![Projecteur](photos/projecteur.jpg)
 
