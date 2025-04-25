@@ -26,4 +26,11 @@ Les septs films :
 
 #### [Site](https://sat.qc.ca/fr/evenements/fragments-dici)
 
+## Placement
 
+Ce dispositif est situé en haut de l'établissement de la société des arts technologiques
+
+<p align="center">
+  <img src="./photos/toit.jpg" width="500px"><br>
+  <i>Batiment de société des arts et technologiques photo prit par moi</i>
+</p>
