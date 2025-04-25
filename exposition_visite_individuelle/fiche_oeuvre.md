@@ -50,8 +50,6 @@ Le tout contrôlé par une console sur le côté.
 Projecteurs | Hauts parleurs
 :-------------------------:|:---------------------------:
 ![Projecteurs](photos/projecteur.jpg)|![Hauts parleurs](photos/haut_parleur.jpg)
+Console | Coussins
+![Console](photos/zone_control.jpg)|![Coussins](photos/coussins.jpg)
 
-<p align="center">
-  <img src="./photos/zone_control.jpg" width="500px"><br>
-  <i>Console de contrôle photo prise par moi</i>
-</p>
