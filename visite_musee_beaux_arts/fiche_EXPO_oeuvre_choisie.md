@@ -47,10 +47,18 @@ Hauts parleurs | Projecteur
 ![Hauts parleurs](photos/haut_parleur.jpg)|![Projecteur](photos/projecteur.jpg)
 
 ## Expérience vécue
-Vue que la salle est presque vide et que la seul interaction est un banc. La plus part des gens s'assoient sur le banc et regarde les deux écrans superposé l'un sur l'autre. Le Concerto dur 20 minutes.
+Vue que la salle est presque vide et que la seul interaction est un banc. La plus part des gens s'assoient sur le banc et regarde les deux écrans superposé l'un sur l'autre. Le Concerto dur 20 minutes qui dans l'immersion parait comme un 5 minuites.
 
 
 <p align="center">
   <img src="./photos/banc.jpg" width="500px"><br>
   <i>Vue ensemble photo prise par moi</i>
 </p>
+
+## Référence
+
+<p align="center">
+  <img src="./photos/reference.jpg" width="500px"><br>
+  <i>Vue ensemble photo prise par moi</i>
+</p>
+
