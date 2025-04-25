@@ -26,6 +26,15 @@ Les septs films :
 
 #### [Site](https://sat.qc.ca/fr/evenements/fragments-dici)
 
+## L'oeuvre
+
+<p align="center">
+  <img src="./photos/exemple.jpg" width="500px"><br>
+  <i>Image du film Immortelle photo prise par moi</i>
+</p>
+
+Dans toutes les films, il y avait une différence qui rend le film unique. Par exemple, il y a des films que la caméra avançait et d'autre reculait. Donc on avait des sentiments différents pour chaque film.
+
 ## Placement
 
 <p align="center">
@@ -44,8 +53,7 @@ Quand-t-on rentre à l'intérieur du dôme, on apperçoit des coussins installé
   <i>Expérience véçu photo prise par moi</i>
 </p>
 
-Dans le dôme, il y a 8 projecteurs dans la salle et le mur est plein de petits hauts parleurs. 
-Le tout contrôlé par une console sur le côté.
+Dans le dôme, il y a 8 projecteurs dans la salle et le mur est plein de petits hauts parleurs. Le tout contrôlé par une console sur le côté. 
 
 Projecteurs | Hauts parleurs
 :-------------------------:|:---------------------------:
