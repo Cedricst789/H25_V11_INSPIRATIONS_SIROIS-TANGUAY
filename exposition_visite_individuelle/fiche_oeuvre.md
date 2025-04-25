@@ -34,6 +34,7 @@ Les septs films :
 </p>
 
 Dans toutes les films, il y avait une différence qui rend le film unique. Par exemple, il y a des films que la caméra avançait et d'autre reculait. Donc on avait des sentiments différents pour chaque film.
+Dans l'image au dessus la caméra reculait et ça donnait une sensation de tomber en se mélangeait avec des fils.
 
 ## Placement
 
