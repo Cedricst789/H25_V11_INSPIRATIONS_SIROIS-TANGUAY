@@ -12,8 +12,8 @@
   <i>Titre photo prise par moi</i>
 </p>
 
-Cette exposition à été active du 28 janvier 2025 au 27 février 2025.
-Ce dispositif multimédia à été conçu d'un programme de sept films d'art immersifs pour une durée total de 42 minutes. Les artistes ont eux comme but de créer une immersion et l'exploration des limites de la perception. 
+Cette exposition temporaire à été active du 28 janvier 2025 au 27 février 2025. Visité le 4 mars 2025
+Ce dispositif multimédia à été conçu d'un programme de sept films d'art de type immersifs pour une durée total de 42 minutes. Les artistes ont eux comme but de créer une immersion et l'exploration des limites de la perception. 
 
 Les septs films :
 - Trajectoires interrompus et autres modèles de déséquilibre transitoire
@@ -82,6 +82,12 @@ Console | Coussins
 Personellement j'aurai aimé qu'elle soit disponible à l'année longue. Je n'ai pas vue passé les 42 minutes de la présentation et les films était très original. Les coussins étaient confortable et le volume du son était juste parfait, pas trop fort et pas trop faible. J'ai été surpris que le movement de caméra m'a pas donné mal au coeur. Donc, les movements de caméra était pas trop vite. 
 
 Si cette exposition revient de vous conseille d'y aller.
+
+### Ce que j'ai le plus aimé: 
+L'immersion était incroyable !! J'aimerai reproduire une immersion comme ça.
+
+### Ce que j'ai le moins aimé:
+Le fait d'être coucher, je trouve, nous rend trop relaxe pour écouter le film. Aussi on sait pas trop ou regarder vue que c'est une vue 360 degrés.
 
 ## Source
 
