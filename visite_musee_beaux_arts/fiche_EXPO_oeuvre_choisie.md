@@ -27,19 +27,23 @@ Créée en 1929-1930, cette pièce musical est le résultat du pianiste Paul Wit
 Ce type d'installation est immersive. Le fait que la seul chose que vous entendez et regardez, c'est ce dispositif.
 
 ## Mise en espace
+Il faut:
 
+Des composanstes  fornies par L'artiste:
+- La vidéo
+- La musique
+
+Des composantes fourni par la place:
+- Les deux écrans
+- les câbles d'alimentations
+- Les hauts parleurs
+- Les projecteurs
+- Les caches fils
 
 Premier écran | Deuxième écran
 :-------------------------:|:---------------------------:
-![Premier](photos/ecran_gauche.jpg)|![Deuxieme](/photos/ecran_droite.jpg)
+![Premier](photos/ecran_gauche.jpg)|![Deuxieme](photos/ecran_droite.jpg)
+Hauts parleurs | Projecteur
+:-------------------------:|:---------------------------:
+![Hauts parleurs](photos/haut_parleur.jpg)|![Projecteur](photos/projecteur.jpg)
 
-
-<p align="left">
-  <img src="./photos/ecran_gauche.jpg" width="500px"><br>
-  <i>premier écran photo prise par moi</i>
-</p>
-
-<p align="right">
-  <img src="./photos/ecran_droite.jpg" width="500px"><br>
-  <i>deuxième écran photo prise par moi</i>
-</p>
