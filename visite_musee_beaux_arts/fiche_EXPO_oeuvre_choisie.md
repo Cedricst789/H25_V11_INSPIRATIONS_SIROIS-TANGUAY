@@ -32,3 +32,13 @@ Ce type d'installation est immersive. Le fait que la seul chose que vous entende
 Premier écran | Deuxième écran
 :-------------------------:|:-------------------------:
 ![Premier](photos/ecran_gauche.jpg)|![Deuxième](/photos/ecran_droite.jpg)
+
+<p align="left">
+  <img src="./photos/ecran_gauche.jpg" width="500px"><br>
+  <i>premier écran photo prise par moi</i>
+</p>
+
+<p align="right">
+  <img src="./photos/ecran_droite.jpg" width="500px"><br>
+  <i>deuxième écran photo prise par moi</i>
+</p>
