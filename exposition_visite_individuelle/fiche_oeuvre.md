@@ -28,10 +28,24 @@ Les septs films :
 
 ## Placement
 
-Ce dispositif est situé en haut de l'établissement de la société des arts technologiques dans le dôme. 
-
 <p align="center">
   <img src="./photos/toit.jpg" width="500px"><br>
   <i>Batiment de société des arts et technologiques photo prit par moi</i>
 </p>
 
+Ce dispositif est situé dans le dôme en haut de l'établissement de la société des arts technologiques.
+
+## Mise en place
+
+Quand-t-on rentre à l'intérieur du dôme, on apperçoit des coussins installés pour qu'on regarde le plafond.
+
+<p align="center">
+  <img src="./photos/experience.jpg" width="500px"><br>
+  <i>Expérience véçu photo prit par moi</i>
+</p>
+
+Dans le dôme, il y a 8 projecteurs dans la salle et le mur est plein de petits hauts parleurs.
+
+Projecteurs | Hauts parleurs
+:-------------------------:|:---------------------------:
+![Projecteurs](photos/projecteur.jpg)|![Hauts parleurs](photos/haut_parleur.jpg)
