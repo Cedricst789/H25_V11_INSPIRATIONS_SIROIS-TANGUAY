@@ -12,4 +12,6 @@
   <i>Titre photo prit par moi</i>
 </p>
 
+Ce dispositif multimédia est conçu pour un programme de sept films d'art immersifs pour une durée total de 42 minutes. 
+
 #### [Site](https://sat.qc.ca/fr/evenements/fragments-dici)
